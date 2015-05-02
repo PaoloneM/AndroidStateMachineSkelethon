@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StateMachineSkelethon</string>
+
+    <string name="hello_world">State Machine Skelethon entry point</string>
+    <string name="action_settings">Settings</string>
+</resources>
